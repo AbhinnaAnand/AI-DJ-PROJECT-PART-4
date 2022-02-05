@@ -1,0 +1,43 @@
+.heading {
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 5px 5px black;
+}
+
+.note {
+    font-size: 25px;
+    color: red;
+}
+
+body {
+    background-size: cover;
+}
+
+
+
+
+.play_button {
+    width: 130px;
+    font-size: 25px;
+}
+
+.copyright_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    background-color: red;
+    color: greenyellow;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 50px;
+}
